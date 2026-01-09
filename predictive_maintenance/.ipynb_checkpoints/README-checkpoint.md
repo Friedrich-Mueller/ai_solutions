@@ -1,3 +1,0 @@
-# Predictive Maintenance
-
-
