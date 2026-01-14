@@ -1,5 +1,5 @@
 .idea/
 #notebooks/
-**/**.ipynb
+#**/**.ipynb
 **/.ipynb_checkpoints/
 data/
