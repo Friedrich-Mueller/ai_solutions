@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GLP</string>
+    <string name="button_send">Save to DB</string>
+    <string name="button_selectFile">Select File</string>
+
+    <string name="enter_date">Enter Date</string>
+    <string name="enter_time">Enter Time</string>
+    <string name="enter_GL">Glucose Level</string>
+    <string name="enter_CU">Carb Units</string>
+    <string name="enter_BOLUS">Bolus Units (quick Insulin)</string>
+    <string name="enter_BASIS">Basis Units (slow insulin)</string>
+
+
+    <string name="new_entry">New Entry</string>
+    <string name="fetch_data">Fetch LibreView Data</string>
+    <string name="create_entry">Create Entry</string>
+
+    <string name="date_format">%1$d/%2$d/%3$d</string>
+
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+</resources>
